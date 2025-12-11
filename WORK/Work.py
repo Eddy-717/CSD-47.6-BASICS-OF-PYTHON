@@ -8,8 +8,8 @@ print(len(my_music))
 
 print(playlist[2])
 
-playlist[0] = "Ye"
+playlist[0] = "Perfect"
 
-playlist.append("Slow Down")
+playlist.append("Blinding lights")
 
 print(playlist)
